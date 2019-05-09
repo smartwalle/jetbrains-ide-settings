@@ -1,17 +1,4 @@
 <application>
-  <component name="CodeInsightSettings">
-    <option name="COMPLETION_CASE_SENSITIVE" value="2" />
-    <option name="AUTOCOMPLETE_ON_CODE_COMPLETION" value="false" />
-    <option name="SHOW_FULL_SIGNATURES_IN_PARAMETER_INFO" value="true" />
-    <option name="INSERT_BRACE_ON_ENTER" value="false" />
-    <option name="SURROUND_SELECTION_ON_QUOTE_TYPED" value="true" />
-  </component>
-  <component name="DaemonCodeAnalyzerSettings">
-    <option name="NEXT_ERROR_ACTION_GOES_TO_ERRORS_FIRST" value="false" />
-  </component>
-  <component name="Go">
-    <option name="detectGoPackageFromClipboard" value="false" />
-  </component>
   <component name="JavaCodeFoldingSettings">
     <option name="collapseAnnotations" value="true" />
     <option name="collapseAnonymousClasses" value="true" />
